@@ -37,7 +37,7 @@ public class Conexion {
             if (conn != null) {
                 System.out.println("Conexión Establecida a la Base de Datos: " + db);
             } else {
-                System.out.println("Conexión Inexistente...");
+                System.out.println("Conexión Inexistente a la Bade de Datos");
             }
         }
     }
